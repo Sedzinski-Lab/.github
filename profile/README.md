@@ -18,6 +18,7 @@ The aims to understand the general principles underlying epithelial homeostasis.
 - **Jakub Sedzinski** - Group Leader
 <details>
 <summary> Group Members </summary>
+  
 - **Alexandra Maria Bussek-Sedzinski** - Academic Research Staff
 - **Raghavan Thiagarajan** - Assistant Professor
 - **Lieke Stockmann** - Postdoc
@@ -31,4 +32,5 @@ The aims to understand the general principles underlying epithelial homeostasis.
 - **Nicola Garlet** - Research Assistant
 - **Niels Alvaro Menezes** - External
 - **Weronika Anna Weglewska** - External
+  
 </details>
