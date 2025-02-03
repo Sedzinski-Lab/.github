@@ -6,7 +6,7 @@
 The aims to understand the general principles underlying epithelial homeostasis. Particularly, they want to determine both the mechanics and molecular regulation of epithelial cell renewal from stem cells hoping to provide new insights into treatment of epithelial pathologies associated with defective tissue homeostasis, such as asthma, colitis, and most common epithelial tumours, or carcinomas.
 
 ## 🛠️ Current Projects
-- [Project 1 Name](link-to-project): [Brief description of the project.]
+- [Seq2Cell](https://github.com/Sedzinski-Lab/Seq2Cell): [Brief description of the project.]
 - [Project 2 Name](link-to-project): [Brief description of the project.]
 
 ## 📄 Publications
