@@ -34,3 +34,6 @@ The aims to understand the general principles underlying epithelial homeostasis.
 - **Weronika Anna Weglewska** - External
   
 </details>
+
+## 🔩 Guide
+- [GithubGuide](https://github.com/Sedzinski-Lab/.github/blob/main/guide/Github_guide.md)
