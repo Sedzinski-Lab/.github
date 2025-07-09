@@ -7,7 +7,7 @@ The aims to understand the general principles underlying epithelial homeostasis.
 
 ## 🛠️ Current Projects
 - [Seq2Cell](https://github.com/Sedzinski-Lab/Seq2Cell): [Brief description of the project.]
-- [Project 2 Name](link-to-project): [Brief description of the project.]
+- [Spatify](https://github.com/Sedzinski-Lab/Spatify): [Spatify is a Python-based toolkit for integrating spatial transcriptomics data with nuclear imaging and single-cell RNA-seq analysis.]
 
 ## 📄 Publications
 <details>
