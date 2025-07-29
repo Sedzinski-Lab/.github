@@ -37,3 +37,4 @@ The aims to understand the general principles underlying epithelial homeostasis.
 
 ## 🔩 Guide
 - [GithubGuide](https://github.com/Sedzinski-Lab/.github/blob/main/guide/Github_guide.md)
+- [RejsUd](https://github.com/Sedzinski-Lab/.github/blob/main/guide/RejsUd.md)
